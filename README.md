@@ -50,7 +50,7 @@ sales-target-actual-analysis/
 ├── sql/
 │   └── target_actual_analysis.sql ← 15+ SQL queries
 │
-├── target_actual_eda.py           ← Python EDA + visualizations
+├── target_actual_eda.ipynb        ← Python EDA + visualizations
 │
 ├── docs/
 │   ├── sales_dashboard.png        ← Python dashboard
